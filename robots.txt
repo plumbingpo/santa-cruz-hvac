@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://santacruzhvacco.com/sitemap.xml
